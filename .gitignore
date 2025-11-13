@@ -1,0 +1,6 @@
+node_modules
+ai-model-auth-firebase-admin.json
+.env
+.vercel
+tripwise-firebase-admin.json
+
